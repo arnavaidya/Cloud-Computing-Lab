@@ -1,4 +1,4 @@
-Steps to Set Up and Run a Java Application Using Eclipse
+# Steps to Set Up and Run a Java Application Using Eclipse:
 1. Install an IDE for Java Development:
 Download and install any Java IDE (Eclipse recommended).
 2. Install JDK and JRE:
