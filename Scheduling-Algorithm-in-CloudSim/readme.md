@@ -1,9 +1,12 @@
 # Steps to Set Up and Run a Java Application Using Eclipse:
 1. Install an IDE for Java Development:
+   
 Download and install any Java IDE (Eclipse recommended).
 2. Install JDK and JRE:
+  
 Ensure that JDK (Java Development Kit) and JRE (Java Runtime Environment) are installed.
 3. Configure Environment Variables:
+
 Open the Environment Variables window.
 Add the JDK bin path to the system’s Path variable.
 Example:
