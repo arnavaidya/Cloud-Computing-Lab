@@ -12,7 +12,7 @@ Open the Environment Variables window.
 Add the jdk\bin path to the system’s Path variable.
 
 Example: If your JDK is installed in 
-      C:\Program Files\Java\jdk-14.0.1\bin
+                  C:\Program Files\Java\jdk-14.0.1\bin
 , add this path.
 
 # 4. Open Eclipse: 
