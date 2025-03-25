@@ -7,12 +7,11 @@ Install any IDE for running Java applications (Eclipse is recommended).
 Ensure you have both the Java Development Kit (JDK) and Java Runtime Environment (JRE) installed.
 
 # 3. Set Up Environment Variables:
-Open the Environment Variables window.
+. Open the Environment Variables window.
 
-Add the jdk\bin path to the system’s Path variable.
+. Add the jdk\bin path to the system’s Path variable.
 
-Example: 
-        If your JDK is installed in C:\Program Files\Java\jdk-14.0.1\bin, add this path.
+. Example: If your JDK is installed in C:\Program Files\Java\jdk-14.0.1\bin, add this path.
 
 # 4. Open Eclipse: 
 Launch Eclipse and set up your preferred workspace.
