@@ -56,13 +56,21 @@ This writes text into the files.
 Confirm the content.
 
 # 6. Transfer Files Using SCP Command
+Use the SCP (Secure Copy Protocol) to transfer the files from Source VM to Destination VM.
+
 On Source VM terminal:
 
-    scp file1.txt file2.txt arnav-vaidya@192.168.56.101:~/
+    scp file1.txt file2.txt username@destination_ip:~/
+
+Where:
+
+. username = the username of the logged-in user on the destination VM
+
+. destination_ip = the IP address of the destination VM found earlier
 
 Enter the password of the arnav-vaidya user on the destination VM when prompted.
 
-Files are copied into the home directory /home/arnav-vaidya/.
+Files are copied into the home directory /home/username/.
 
 # 7. Verify Files on Destination VM (After Transfer)
 On Destination VM terminal:
