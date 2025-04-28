@@ -64,9 +64,9 @@ On Source VM terminal:
 
 Where:
 
-. username = the username of the logged-in user on the destination VM
+* username = the username of the logged-in user on the destination VM
 
-. destination_ip = the IP address of the destination VM found earlier
+* destination_ip = the IP address of the destination VM found earlier
 
 Enter the password of the arnav-vaidya user on the destination VM when prompted.
 
